@@ -1,2 +1,4 @@
 # Portfolio
-This repository will contain my projects and other work related to Computer Science and Design Studies.
+This repository contains projects involved in Computer Science.
+
+- WebGL Game using Zach's game engine
