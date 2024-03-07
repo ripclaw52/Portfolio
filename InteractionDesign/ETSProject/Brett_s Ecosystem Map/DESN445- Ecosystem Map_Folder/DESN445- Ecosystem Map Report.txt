@@ -1,0 +1,49 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: DESN445- Ecosystem Map.ai
+Color Mode: CMYK color
+Color Profile: none
+Ruler Units: points
+Artboard Dimensions: 2221.1274 pt x 1687.955 pt
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Myriad Pro (OTF)
+Acumin Variable Concept Light (OTF)
+Acumin Variable Concept Light Italic (OTF)
+Acumin Variable Concept Semibold (OTF)
+Acumin Variable Concept Bold (OTF)
+Acumin Variable Concept ExtraLight-164.000 (OTF)
+Acumin Variable Concept ExtraLight-236.000 (OTF)
+Acumin Variable Concept Medium-524.000 Italic-6.000 (OTF)
+Acumin Variable Concept Medium-508.000 (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+/Users/brettjohnson/Downloads/Accessibility Icon_final.eps
+Type: EPS
