@@ -7,5 +7,5 @@ Local files
 Projects linked to other repositories
 - Capstone Project: Pokemon Game repository [link here](https://github.com/ripclaw52/CMPT496_Unity2DPokemonProject.git)
 - Schedule Manager Project in Android Studio [link here](https://github.com/ripclaw52/w22borg-main.git)
-- React API car rental website [link here](https://github.com/CosmicBagel/CMPT315-GroupProject.git)
+- React API car rental website ([link here](https://github.com/CosmicBagel/CMPT315-GroupProject.git) set to private) Zip file CMPT315_GroupProject provided
 - Edmonton AB, Property Assessment Infographic [link here](https://github.com/ripclaw52/pythonPandasAndNumpyTestProject.git)
