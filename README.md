@@ -9,3 +9,4 @@ Projects linked to other repositories
 - Capstone Project: Pokemon Game repository [link here](https://github.com/ripclaw52/CMPT496_Unity2DPokemonProject.git)
 - Schedule Manager Project in Android Studio [link here](https://github.com/ripclaw52/w22borg-main.git)
 - Edmonton AB, Property Assessment Infographic [link here](https://github.com/ripclaw52/pythonPandasAndNumpyTestProject.git)
+- 2025 FALL Alberta Game Jam [link here](https://github.com/ripclaw52/AGJ2025.git)
