@@ -10,3 +10,4 @@ Projects linked to other repositories
 - Schedule Manager Project in Android Studio [link here](https://github.com/ripclaw52/w22borg-main.git)
 - Edmonton AB, Property Assessment Infographic [link here](https://github.com/ripclaw52/pythonPandasAndNumpyTestProject.git)
 - 2025 FALL Alberta Game Jam [link here](https://github.com/ripclaw52/AGJ2025.git)
+- 2026 MacEwan Game Dev Club Game Jam [link here](https://github.com/ripclaw52/MacEwanGameJam26/tree/master)
